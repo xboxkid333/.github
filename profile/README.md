@@ -1,5 +1,5 @@
 # Hi
-## this is where the files for nintendoboi2 live
+## this is where the files for xboxkid live (its just nintendoboi but with another name)
 ### if you are gonna clone or fork this pls give credit
 ###### and if your reading this and you actualy use the website thanks
 
